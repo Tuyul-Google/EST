@@ -2,6 +2,7 @@
 This Tool Is Made To Judge Friends And Brothers Siblings Not For Criminal Acts.\
 Alat Ini Digunakan Untuk Menjahili Teman Dan Saudara Serta Tidak Untuk Tindakan Kriminal
 ### NOTE
+- For Many Bugs I'm Sorry Because This `Beta Version`
 - **ATTENTION**: _The Author will Not Be Responsible For Anything That Happens._
 - **PERHATIAN**: _Penulis Tidak Akan Bertanggung Jawab Atas Apapun Yang Terjadi._
 - This Tools Only Work in Country: `Indonesia`
